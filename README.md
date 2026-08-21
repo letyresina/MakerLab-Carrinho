@@ -18,8 +18,8 @@ Projeto de desenvolvimento e documentação de um **robô móvel com chassi 2WD*
 | Tipo                         | Chassi para robô móvel 2WD  |
 | Material                     | Acrílico                    |
 | Cor                          | Transparente                |
-| Comprimento                  | Aproximadamente **21,2 cm** |
-| Largura                      | Aproximadamente **15,2 cm** |
+| Comprimento                  | Aproximadamente **22 cm** |
+| Largura                      | Aproximadamente **14,7 cm** |
 | Peso                         | Aproximadamente **100 g**   |
 | Quantidade de rodas motrizes | 2                           |
 | Roda de apoio                | 1 roda boba universal       |
