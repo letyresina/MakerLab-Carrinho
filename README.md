@@ -109,11 +109,7 @@ A posição da placa controladora e dos demais componentes eletrônicos poderá 
 
 O croqui deverá apresentar a disposição dos principais componentes do robô, incluindo motores, rodas, roda boba, alimentação, placa controladora e demais componentes utilizados no projeto.
 
-<!-- Inserir imagem do croqui abaixo quando estiver pronta -->
-
-<!--
-![Croqui do Chassi](./docs/croqui-chassi.png)
--->
+![Croqui do Chassi](./docs/Croqui-Chassi.png)
 
 ---
 
