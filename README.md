@@ -79,9 +79,9 @@ A distribuição inicial dos principais componentes no chassi é:
 | Motor DC direito              | Lateral direita do chassi                               |
 | Rodas motrizes                | Acopladas aos motores nas laterais                      |
 | Roda boba universal           | Região frontal do chassi                                |
-| Suporte para pilhas           | Região central/superior do chassi                       |
+| Suporte para pilhas           | Região central/inferior do chassi                       |
 | Chave Liga/Desliga            | Região central do chassi                                |
-| Placa controladora            | Posição a ser definida durante a montagem               |
+| Placa controladora            | Região central/superior do chassi               |
 | Sensores e módulos adicionais | Posições a serem definidas conforme evolução do projeto |
 
 A posição da placa controladora e dos demais componentes eletrônicos poderá ser ajustada durante o desenvolvimento para garantir melhor distribuição de peso, organização dos cabos e acesso aos componentes.
