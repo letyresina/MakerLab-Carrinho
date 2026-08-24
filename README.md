@@ -121,8 +121,9 @@ Esta documentação será atualizada durante o desenvolvimento do robô, registr
 - [x] Levantamento das dimensões
 - [x] Identificação dos motores
 - [x] Identificação dos componentes do kit
+- [x] Tabela Dimensional
 - [ ] Definição da placa controladora
-- [ ] Elaboração do croqui
+- [x] Elaboração do croqui
 - [ ] Montagem do chassi
 - [ ] Integração dos componentes eletrônicos
 - [ ] Desenvolvimento do software
