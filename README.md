@@ -6,6 +6,7 @@ Projeto de desenvolvimento e documentação de um **robô móvel com chassi 2WD*
 
 - **Gabriel Riquetto Reis** — RM 98685
 - **Leticia Cristina Gandarez Resina** — RM 98069
+- **Sabrina Flores Morais** — RM 550781
 
 ---
 
@@ -65,7 +66,7 @@ O chassi possui compatibilidade física para utilização com diferentes platafo
 - Raspberry Pi;
 - Outros microcontroladores e módulos eletrônicos compatíveis.
 
-> **Placa controladora definida para o projeto:** _A definir._
+> **Placa controladora definida para o projeto:** Arduino Uno R3
 
 ---
 
@@ -122,7 +123,7 @@ Esta documentação será atualizada durante o desenvolvimento do robô, registr
 - [x] Identificação dos motores
 - [x] Identificação dos componentes do kit
 - [x] Tabela Dimensional
-- [ ] Definição da placa controladora
+- [x] Definição da placa controladora
 - [x] Elaboração do croqui
 - [ ] Montagem do chassi
 - [ ] Integração dos componentes eletrônicos
