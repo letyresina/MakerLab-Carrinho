@@ -258,9 +258,19 @@ Além dos componentes fornecidos no kit do chassi, serão utilizados:
 
 O croqui apresenta a disposição inicial dos principais componentes do robô, incluindo motores, rodas, roda boba, alimentação e placa controladora.
 
+## 5.1 Visualização do Croqui
+
 ![Croqui do Chassi](./croqui/Croqui-Chassi.png)
 
-> O croqui representa o planejamento inicial da montagem. A posição da Ponte H e do sensor VL53L0X poderá ser adicionada ou ajustada conforme a montagem física dos componentes.
+## 5.2 Arquivo CAD
+
+O croqui do chassi também está disponível em formato **DXF (Drawing Exchange Format)**, permitindo sua abertura e edição em softwares CAD compatíveis.
+
+📐 [**Acessar arquivo CAD do chassi — Chassi - Sketch 1.dxf**](./Chassi%20-%20Sketch%201.dxf)
+
+> O arquivo `.dxf` corresponde ao arquivo CAD do chassi, enquanto a imagem `.png` permite a visualização direta do croqui pelo GitHub.
+
+> A disposição dos componentes representa o planejamento inicial da montagem e poderá ser ajustada durante a construção física do protótipo.
 
 ---
 
@@ -327,8 +337,6 @@ O circuito também pode ser consultado diretamente no projeto desenvolvido pela 
 | D9 | Entrada 3 | Controle do motor |
 | D10 | Entrada 4 | Controle do motor |
 
----
-
 ### L293D → Motor 1
 
 | L293D | Motor 1 |
@@ -343,8 +351,6 @@ O circuito também pode ser consultado diretamente no projeto desenvolvido pela 
 | Saída 1 | Terminal 1 |
 | Saída 2 | Terminal 2 |
 
----
-
 ### HC-SR04 → Arduino
 
 | HC-SR04 | Arduino |
@@ -356,7 +362,7 @@ Os demais pontos de alimentação representados no circuito estão conectados ao
 
 ---
 
-## 7.3 Relação entre a simulação e o projeto físico
+## 7.3 Relação entre a Simulação e o Projeto Físico
 
 A simulação foi utilizada para representar e validar a lógica geral das conexões eletrônicas.
 
@@ -428,32 +434,7 @@ Essas alterações são exclusivas da simulação e não representam uma mudanç
 
 ---
 
-# 📁 10. Organização Sugerida do Repositório
-
-```text
-/
-├── README.md
-│
-├── croqui/
-│   ├── Croqui-Chassi.png
-│   └── Croqui-Chassi-CAD.*
-│
-├── diagramas/
-│   ├── diagrama-conexoes.png
-│   └── CP1.pdf
-│
-├── src/
-│   └── codigo-arduino.ino
-│
-└── docs/
-    └── documentacao.md
-```
-
-> O arquivo CAD do croqui deverá ser mantido no repositório juntamente com sua representação em imagem.
-
----
-
-# 🔧 11. Desenvolvimento do Projeto
+# 🔧 10. Desenvolvimento do Projeto
 
 Esta documentação será atualizada durante o desenvolvimento do robô, registrando alterações na estrutura, componentes eletrônicos utilizados, esquema de montagem, programação e testes realizados.
 
@@ -473,6 +454,7 @@ Esta documentação será atualizada durante o desenvolvimento do robô, registr
 * [x] Definição dos atuadores
 * [x] Definição do posicionamento dos componentes
 * [x] Elaboração do croqui
+* [x] Arquivo CAD do chassi
 * [x] Diagrama de blocos
 * [x] Definição das conexões/pinos da simulação
 * [x] Diagrama de alimentação
