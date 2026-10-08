@@ -492,4 +492,11 @@ Qualquer alteração relevante nos componentes, dimensões, conexões ou funcion
 
 ## Imagens do projeto
 
+![IMG_7051](https://github.com/user-attachments/assets/84ec5f89-a344-4406-b7b7-f4af25e00d65)
+
+![IMG_7053](https://github.com/user-attachments/assets/5e247c65-7d7e-45f4-bca4-0755bf3200a9)
+
+![IMG_7052](https://github.com/user-attachments/assets/10aebe03-024a-4dcb-b916-4f75253f2ec6)
+
+
 
