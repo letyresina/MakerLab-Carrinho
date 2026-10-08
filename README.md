@@ -492,11 +492,7 @@ Qualquer alteração relevante nos componentes, dimensões, conexões ou funcion
 
 ## Imagens do projeto
 
-![IMG_7051](![Croqui do Chassi](./demonstrações/IMG_7051.png))
-
-![IMG_7053](![Croqui do Chassi](./demonstrações/IMG_7052.png))
-
-![IMG_7052](![Croqui do Chassi](./demonstrações/IMG_7053.png))
+! [Demonstração 1](./demonstrações/IMG_7051.png)
 
 
 
