@@ -492,7 +492,11 @@ Qualquer alteração relevante nos componentes, dimensões, conexões ou funcion
 
 ## Imagens do projeto
 
-! [Demonstração 1](./demonstrações/IMG_7051.png)
+! [Demonstração 1](./demonstrações/frente.png)
+
+! [Demonstração 2](./demonstrações/lado.png)
+
+! [Demonstração 3](./demonstrações/cima.png)
 
 
 
