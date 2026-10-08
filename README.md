@@ -498,5 +498,8 @@ Qualquer alteração relevante nos componentes, dimensões, conexões ou funcion
 
 ![Demonstração 3](./demonstrações/cima.png)
 
+## Vídeo do carrinho Arduino em funcionamento.
+
+[Demonstração no YouTube](https://youtube.com/shorts/JFmwgkQTnic?feature=share)
 
 
