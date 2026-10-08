@@ -489,3 +489,7 @@ As próximas etapas previstas para o desenvolvimento são:
 As especificações apresentadas correspondem ao planejamento inicial do projeto e poderão sofrer alterações durante a montagem e os testes.
 
 Qualquer alteração relevante nos componentes, dimensões, conexões ou funcionamento será registrada nesta documentação.
+
+## Imagens do projeto
+
+
